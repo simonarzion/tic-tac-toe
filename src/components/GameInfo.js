@@ -1,5 +1,3 @@
-import styled from "styled-components";
-
 export const GameInfo = ({ winner, renderMoves, turns }) => {
   return (
     <div>
